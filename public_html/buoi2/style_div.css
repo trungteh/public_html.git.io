@@ -1,0 +1,21 @@
+#title	h1{
+		background: url("header.jpg") no-repeat;
+		background-size: cover;
+		margin:10px 10px 500px 10px;
+	}
+
+#menu h4	{
+		background:blue;
+		color:white;
+	}
+
+#content h4
+	{
+		color:blue;
+	}
+
+#menu a
+	{
+		background:turquoise;
+		border:black;
+	}
