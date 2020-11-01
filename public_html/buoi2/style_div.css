@@ -1,21 +1,41 @@
-#title	h1{
-		background: url("header.jpg") no-repeat;
-		background-size: cover;
-		margin:10px 10px 500px 10px;
-	}
-
-#menu h4	{
-		background:blue;
+#title h1
+	{
 		color:white;
+		text-shadow:2px 2px rgb(0,255,200);
+		background:url("header.jpg") no-repeat;
+		background-size:1320px 250px;
+		height:250px;
+		width:1320px;
+		position: top:500px;
 	}
 
+#menu h4
+	{
+		background: blue;
+		color:white;
+		width:200px;
+		text-align:center;
+	}
+
+#menu li
+	{
+		background: turquoise;
+		width:200px;
+		list-style-type:none;
+	}
+
+#content
+	{
+		width:500px;
+		float: right;
+		
+	}
+
+#footer p
+	{
+		display:none;
+	}
 #content h4
 	{
 		color:blue;
-	}
-
-#menu a
-	{
-		background:turquoise;
-		border:black;
 	}

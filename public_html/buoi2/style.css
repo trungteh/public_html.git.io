@@ -1,0 +1,24 @@
+body
+	{
+		background:black;
+	}
+h1
+	{
+		color:white;
+		text-align: right;
+		background: url("../img/bg.jpg");
+		background-size:1320px 330px;
+		height:330px;
+		width:1320px;
+	}
+
+#menu ul li
+	{
+		border:1px white dotted;
+		display: inline;
+	}
+
+li ul a
+	{
+		display:none;
+	}
